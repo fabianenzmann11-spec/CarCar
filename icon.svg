@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Auto-Budget App-Icon">
+  <rect width="512" height="512" rx="112" fill="#1B2420"/>
+  <path d="M120 300 L138 232 Q142 214 164 211 L250 202 Q262 184 284 178 L360 172 Q396 172 420 198 L448 230 Q460 244 460 262 L460 300 Q460 312 448 312 L132 312 Q120 312 120 300 Z" fill="#2E7D5B"/>
+  <path d="M160 226 L250 217 L250 188 Q262 184 276 182 L276 214 Z" fill="#8FBFA6" opacity=".7"/>
+  <path d="M286 182 L356 178 Q388 180 408 202 L410 214 L286 214 Z" fill="#8FBFA6" opacity=".7"/>
+  <circle cx="196" cy="316" r="40" fill="#12100F"/><circle cx="196" cy="316" r="18" fill="#3A4641"/>
+  <circle cx="384" cy="316" r="40" fill="#12100F"/><circle cx="384" cy="316" r="18" fill="#3A4641"/>
+  <text x="256" y="418" font-family="Georgia, 'Times New Roman', serif" font-size="120" font-weight="600" fill="#F1EFE8" text-anchor="middle">€</text>
+</svg>
